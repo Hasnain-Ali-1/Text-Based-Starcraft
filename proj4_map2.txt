@@ -1,0 +1,11 @@
+0|A Shallow Crater|The ground is greatly depressed here with high walls on three sides. The soil is dark brown with long orange streaks going from the ground to the top of the cliffs. There are small gray rocks scattered throughout the area. The air smells faintly of a flammable gas.|-1|1|-1|-1|
+1|A Narrow Pathway|The path continues to the east and west with high walls to the north and south. The walls continue to be dark brown with long orange streaks in both directions. There are small scratches in the walls where something attempted to build a burrow for itself.|-1|2|-1|0|
+2|A Raised Precipice|As you continue up the steep path to the top of a rocky outcropping. A wide shelf of rock overlooks a pool of water in the center of the precipice. A navigable path continues around the small water feature in an east and west fashion. |-1|3|-1|1|
+3|A Long Peninsula|There are steep drops to the north and south here. The peninsula continues to the east and west.|-1|4|-1|2|
+4|A Rocky Path|A bright red streaked field comprised of an unexpectedly large lake surrounding by uplifted stone sits on this path.  There are large rocks all over the ground and there are clearly visible trails in the long grass surrounding large trees. A path leads west and a dark trail leads into a cave to the south.|-1|-1|5|3|
+5|A Rocky Cave|About halfway into the cave you find and deep shaft leading into a strange area.  Many smaller shafts, all caved in of course, run off in every direction where the ground was stripped of its hidden treasures.  The main shaft continues even farther to the east though.|4|6|-1|-1|
+6|A Dark Intersection|Several dark shafts converge to this point from above.  Most are small
+but one larger one with cart tracts comes from almost straight above and must be the main shaft.  It continues to here and begins to turn north. The air is moist here. There are exits in every direction.|9|8|7|5|
+7|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the north.|6|-1|-1|-1|
+8|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the west.|-1|-1|-1|6|
+9|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the south.|-1|-1|6|-1|

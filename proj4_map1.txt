@@ -1,0 +1,2 @@
+0|Rocky Area|You are standing on a rocky outcropping surrounded by lava. The heat is oppressive. The only exit appears to be to an area to the east.|-1|1|-1|-1|
+1|Lava Area|The rocks are warm to the touch which makes sense as you are standing on a slightly elevated area surrounded by lava. There is an area back to the west.|-1|-1|-1|0|
